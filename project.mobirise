@@ -69,6 +69,11 @@
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_name": "header1",
+          "_styles": {
+            "H1": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "header1-3",
           "_params": {
             "parallax": true,
@@ -90,13 +95,8 @@
             "showArrow": false
           },
           "title": "£5. Yes, we're serious.",
-          "text": "At PCF Data Recovery we are comitted to providing a cheap way for our customers to retrieve their data. That's why we operate for only £5, for one USB device, for one lifetime. Contact us today to start your cheap data recovery!",
-          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
-          "_styles": {
-            "H1": {
-              "color": "#ffffff"
-            }
-          }
+          "text": "At PCF Data Recovery we are comitted to providing a cheap way for our customers to retrieve their data. That's why we operate for only £5, for one portable device. Contact us today to start your cheap data recovery!",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
         }
       ]
     },
@@ -179,7 +179,7 @@
           "currency3": "£",
           "price3": "5",
           "period3": "one-off payment",
-          "list3": "<ul><li><b>No </b>Size Restrictions</li><li><b>Unlimited</b> Lifetime Repairs (per device)</li><li><b>Unlimited </b>Support/Returns</li></ul>",
+          "list3": "<ul><li><b>No </b>Size Restrictions</li><li><b>Portable </b>Devices Only</li><li><b>Unlimited </b>Support</li></ul>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
           "title4": "ULTIMATE",
           "currency4": "$",
@@ -305,7 +305,7 @@
           },
           "title": "\"WHAT CAN I SEND?\"",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>We do have some restrictions on items that you can send us to be recovered, so if you are unsure, just check with us in advance!</p><p>Here are our main restrictions:</p><ul><li>Should <b>pass the 'ding' test</b> - when inserted into a computer, the computer should register it's prescence somehow, maybe with a noise or a flashing light on the device itself. It doesn't matter if any errors show up when doing this test - this is just to prove the device is capable of working on the most basic level.</li><li>Should <b>not have extensive electrical damage</b> - cracks in the casing are fine, but damage such as burning or warping over most of the device is something we will probably not be able to fix.</li><li><b>Portable devices only</b> - no large hard drives. As a general rule, anything that will fit inside a standard envelope is acceptable.</li></ul>",
+          "text": "<p>We do have some restrictions on items that you can send us to be recovered, so if you are unsure, just check with us in advance!</p><p>Here are our main restrictions:</p><ul><li>Should <b>pass the 'ding' test</b> - when inserted into a computer, the computer should register it's prescence somehow, maybe with a noise or a flashing light on the device itself. It doesn't matter if any errors show up when doing this test - this is just to prove the device is capable of working on the most basic level. If it doesn't pass this test, <b>please let us know</b> when placing your order!</li><li>Should <b>not have extensive electrical damage</b> - cracks in the casing are fine, but damage such as burning or warping over most of the device is something we will probably not be able to fix.</li><li><b>Portable devices only</b> - no large hard drives. As a general rule, anything that will fit inside a standard envelope is acceptable.</li></ul>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -455,7 +455,7 @@
             "overlayColor": "#222",
             "showTitle": true
           },
-          "title": "GET IN TOUCH!",
+          "title": "GET IN TOUCH AND PLACE AN ORDER!",
           "form": {
             "action": "eddieadams7@btinternet.com",
             "alerts": {
@@ -465,7 +465,7 @@
               "name": {
                 "title": "Name",
                 "visible": true,
-                "customTitle": "Name* If you don't want to place an order and simply have a question, please put a # next to your name."
+                "customTitle": "Name*"
               },
               "email": {
                 "title": "Email",
@@ -479,7 +479,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Please include address"
+                "customTitle": "Please include address as well as any additional comments!"
               }
             }
           },
